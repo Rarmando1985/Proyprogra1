@@ -1,0 +1,5 @@
+Buen dia Ingeniero para ingresar
+Usuario: Amin
+Password: Admin1
+
+Puede escribirlo como quiera ya que internamente lo transforma todo en mayusculas

@@ -1,0 +1,302 @@
+[
+  {
+    "titulo": "1984",
+    "isbn": "978-0451524935",
+    "genero": "Ciencia Ficción",
+    "cantidad": 4,
+    "autor": "George Orwell",
+    "anio_publicacion": 1949,
+    "editorial": "Signet Classic",
+    "idioma": "Inglés"
+  },
+  {
+    "titulo": "Cien años de soledad",
+    "isbn": "978-0307474728",
+    "genero": "Realismo Mágico",
+    "cantidad": 3,
+    "autor": "Gabriel García Márquez",
+    "anio_publicacion": 1967,
+    "editorial": "Vintage",
+    "idioma": "Español"
+  },
+  {
+    "titulo": "Don Quijote de la Mancha",
+    "isbn": "978-0060934347",
+    "genero": "Clásico",
+    "cantidad": 5,
+    "autor": "Miguel de Cervantes",
+    "anio_publicacion": 1605,
+    "editorial": "HarperCollins",
+    "idioma": "Español"
+  },
+  {
+    "titulo": "Pride and Prejudice",
+    "isbn": "978-0141439518",
+    "genero": "Romance",
+    "cantidad": 2,
+    "autor": "Jane Austen",
+    "anio_publicacion": 1813,
+    "editorial": "Penguin Classics",
+    "idioma": "Inglés"
+  },
+  {
+    "titulo": "To Kill a Mockingbird",
+    "isbn": "978-0061120084",
+    "genero": "Drama",
+    "cantidad": 6,
+    "autor": "Harper Lee",
+    "anio_publicacion": 1960,
+    "editorial": "Harper Perennial",
+    "idioma": "Inglés"
+  },
+  {
+    "titulo": "El amor en los tiempos del cólera",
+    "isbn": "978-0307389732",
+    "genero": "Romance",
+    "cantidad": 2,
+    "autor": "Gabriel García Márquez",
+    "anio_publicacion": 1985,
+    "editorial": "Vintage",
+    "idioma": "Español"
+  },
+  {
+    "titulo": "Matar a un ruiseñor",
+    "isbn": "978-8497592208",
+    "genero": "Drama",
+    "cantidad": 3,
+    "autor": "Harper Lee",
+    "anio_publicacion": 1960,
+    "editorial": "Debolsillo",
+    "idioma": "Español"
+  },
+  {
+    "titulo": "La sombra del viento",
+    "isbn": "978-0143126393",
+    "genero": "Misterio",
+    "cantidad": 4,
+    "autor": "Carlos Ruiz Zafón",
+    "anio_publicacion": 2001,
+    "editorial": "Penguin Books",
+    "idioma": "Español"
+  },
+  {
+    "titulo": "The Great Gatsby",
+    "isbn": "978-0743273565",
+    "genero": "Ficción",
+    "cantidad": 5,
+    "autor": "F. Scott Fitzgerald",
+    "anio_publicacion": 1925,
+    "editorial": "Scribner",
+    "idioma": "Inglés"
+  },
+  {
+    "titulo": "La ladrona de libros",
+    "isbn": "978-0307433848",
+    "genero": "Histórica",
+    "cantidad": 4,
+    "autor": "Markus Zusak",
+    "anio_publicacion": 2005,
+    "editorial": "Knopf",
+    "idioma": "Español"
+  },
+  {
+    "titulo": "The Catcher in the Rye",
+    "isbn": "978-0316769488",
+    "genero": "Drama",
+    "cantidad": 3,
+    "autor": "J.D. Salinger",
+    "anio_publicacion": 1951,
+    "editorial": "Little, Brown",
+    "idioma": "Inglés"
+  },
+  {
+    "titulo": "Harry Potter y la piedra filosofal",
+    "isbn": "978-8478884452",
+    "genero": "Fantasía",
+    "cantidad": 7,
+    "autor": "J.K. Rowling",
+    "anio_publicacion": 1997,
+    "editorial": "Salamandra",
+    "idioma": "Español"
+  },
+  {
+    "titulo": "El señor de los anillos: La comunidad del anillo",
+    "isbn": "978-0261103573",
+    "genero": "Fantasía",
+    "cantidad": 6,
+    "autor": "J.R.R. Tolkien",
+    "anio_publicacion": 1954,
+    "editorial": "HarperCollins",
+    "idioma": "Inglés"
+  },
+  {
+    "titulo": "El código Da Vinci",
+    "isbn": "978-0307474278",
+    "genero": "Misterio",
+    "cantidad": 5,
+    "autor": "Dan Brown",
+    "anio_publicacion": 2003,
+    "editorial": "Anchor",
+    "idioma": "Español"
+  },
+  {
+    "titulo": "Sapiens: De animales a dioses",
+    "isbn": "978-8499924211",
+    "genero": "Historia",
+    "cantidad": 4,
+    "autor": "Yuval Noah Harari",
+    "anio_publicacion": 2011,
+    "editorial": "Debate",
+    "idioma": "Español"
+  },
+  {
+    "titulo": "El alquimista",
+    "isbn": "978-0061122415",
+    "genero": "Ficción",
+    "cantidad": 4,
+    "autor": "Paulo Coelho",
+    "anio_publicacion": 1988,
+    "editorial": "HarperOne",
+    "idioma": "Español"
+  },
+  {
+    "titulo": "Crónica de una muerte anunciada",
+    "isbn": "978-0307387769",
+    "genero": "Ficción",
+    "cantidad": 3,
+    "autor": "Gabriel García Márquez",
+    "anio_publicacion": 1981,
+    "editorial": "Vintage",
+    "idioma": "Español"
+  },
+  {
+    "titulo": "It",
+    "isbn": "978-1501142970",
+    "genero": "Terror",
+    "cantidad": 4,
+    "autor": "Stephen King",
+    "anio_publicacion": 1986,
+    "editorial": "Scribner",
+    "idioma": "Inglés"
+  },
+  {
+    "titulo": "Frankenstein",
+    "isbn": "978-0141439471",
+    "genero": "Terror",
+    "cantidad": 2,
+    "autor": "Mary Shelley",
+    "anio_publicacion": 1818,
+    "editorial": "Penguin Classics",
+    "idioma": "Inglés"
+  },
+  {
+    "titulo": "Drácula",
+    "isbn": "978-0486411095",
+    "genero": "Terror",
+    "cantidad": 3,
+    "autor": "Bram Stoker",
+    "anio_publicacion": 1897,
+    "editorial": "Dover Publications",
+    "idioma": "Inglés"
+  },
+  {
+    "titulo": "El principito",
+    "isbn": "978-0156012195",
+    "genero": "Fábula",
+    "cantidad": 6,
+    "autor": "Antoine de Saint-Exupéry",
+    "anio_publicacion": 1943,
+    "editorial": "Harvest Books",
+    "idioma": "Francés"
+  },
+  {
+    "titulo": "Fahrenheit 451",
+    "isbn": "978-1451673319",
+    "genero": "Ciencia Ficción",
+    "cantidad": 3,
+    "autor": "Ray Bradbury",
+    "anio_publicacion": 1953,
+    "editorial": "Simon & Schuster",
+    "idioma": "Inglés"
+  },
+  {
+    "titulo": "La casa de los espíritus",
+    "isbn": "978-0553383805",
+    "genero": "Realismo Mágico",
+    "cantidad": 4,
+    "autor": "Isabel Allende",
+    "anio_publicacion": 1982,
+    "editorial": "Plaza & Janés",
+    "idioma": "Español"
+  },
+  {
+    "titulo": "El nombre del viento",
+    "isbn": "978-0756404741",
+    "genero": "Fantasía",
+    "cantidad": 3,
+    "autor": "Patrick Rothfuss",
+    "anio_publicacion": 2007,
+    "editorial": "DAW Books",
+    "idioma": "Inglés"
+  },
+  {
+    "titulo": "Los juegos del hambre",
+    "isbn": "978-0439023481",
+    "genero": "Ciencia Ficción",
+    "cantidad": 5,
+    "autor": "Suzanne Collins",
+    "anio_publicacion": 2008,
+    "editorial": "Scholastic Press",
+    "idioma": "Inglés"
+  },
+  {
+    "titulo": "Rayuela",
+    "isbn": "978-8437600981",
+    "genero": "Ficción",
+    "cantidad": 2,
+    "autor": "Julio Cortázar",
+    "anio_publicacion": 1963,
+    "editorial": "Cátedra",
+    "idioma": "Español"
+  },
+  {
+    "titulo": "El túnel",
+    "isbn": "978-9500722913",
+    "genero": "Psicológico",
+    "cantidad": 3,
+    "autor": "Ernesto Sabato",
+    "anio_publicacion": 1948,
+    "editorial": "Planeta",
+    "idioma": "Español"
+  },
+  {
+    "titulo": "Los miserables",
+    "isbn": "978-0451419439",
+    "genero": "Drama",
+    "cantidad": 2,
+    "autor": "Victor Hugo",
+    "anio_publicacion": 1862,
+    "editorial": "Signet",
+    "idioma": "Francés"
+  },
+  {
+    "titulo": "El retrato de Dorian Gray",
+    "isbn": "978-0486278070",
+    "genero": "Ficción",
+    "cantidad": 2,
+    "autor": "Oscar Wilde",
+    "anio_publicacion": 1890,
+    "editorial": "Dover Publications",
+    "idioma": "Inglés"
+  },
+  {
+    "titulo": "Ulises",
+    "isbn": "978-1840226355",
+    "genero": "Ficción Moderna",
+    "cantidad": 1,
+    "autor": "James Joyce",
+    "anio_publicacion": 1922,
+    "editorial": "Wordsworth Editions",
+    "idioma": "Inglés"
+  }
+]

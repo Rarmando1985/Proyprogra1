@@ -1,0 +1,252 @@
+[
+    {
+        "nombre": "Gabriel García Márquez",
+        "biografia": "Biografía de Gabriel García Márquez. Reconocido(a) autor(a) latinoamericano(a).",
+        "pais": "Perú"
+    },
+    {
+        "nombre": "Isabel Allende",
+        "biografia": "Biografía de Isabel Allende. Reconocido(a) autor(a) latinoamericano(a).",
+        "pais": "Argentina"
+    },
+    {
+        "nombre": "Jorge Luis Borges",
+        "biografia": "Biografía de Jorge Luis Borges. Reconocido(a) autor(a) latinoamericano(a).",
+        "pais": "Colombia"
+    },
+    {
+        "nombre": "Mario Vargas Llosa",
+        "biografia": "Biografía de Mario Vargas Llosa. Reconocido(a) autor(a) latinoamericano(a).",
+        "pais": "Guatemala"
+    },
+    {
+        "nombre": "Carlos Fuentes",
+        "biografia": "Biografía de Carlos Fuentes. Reconocido(a) autor(a) latinoamericano(a).",
+        "pais": "Portugal"
+    },
+    {
+        "nombre": "Pablo Neruda",
+        "biografia": "Biografía de Pablo Neruda. Reconocido(a) autor(a) latinoamericano(a).",
+        "pais": "Brasil"
+    },
+    {
+        "nombre": "Julio Cortázar",
+        "biografia": "Biografía de Julio Cortázar. Reconocido(a) autor(a) latinoamericano(a).",
+        "pais": "Guatemala"
+    },
+    {
+        "nombre": "Octavio Paz",
+        "biografia": "Biografía de Octavio Paz. Reconocido(a) autor(a) latinoamericano(a).",
+        "pais": "Portugal"
+    },
+    {
+        "nombre": "Laura Esquivel",
+        "biografia": "Biografía de Laura Esquivel. Reconocido(a) autor(a) latinoamericano(a).",
+        "pais": "Colombia"
+    },
+    {
+        "nombre": "Roberto Bolaño",
+        "biografia": "Biografía de Roberto Bolaño. Reconocido(a) autor(a) latinoamericano(a).",
+        "pais": "Cuba"
+    },
+    {
+        "nombre": "César Vallejo",
+        "biografia": "Biografía de César Vallejo. Reconocido(a) autor(a) latinoamericano(a).",
+        "pais": "México"
+    },
+    {
+        "nombre": "Rosario Castellanos",
+        "biografia": "Biografía de Rosario Castellanos. Reconocido(a) autor(a) latinoamericano(a).",
+        "pais": "Chile"
+    },
+    {
+        "nombre": "Eduardo Galeano",
+        "biografia": "Biografía de Eduardo Galeano. Reconocido(a) autor(a) latinoamericano(a).",
+        "pais": "Perú"
+    },
+    {
+        "nombre": "Manuel Puig",
+        "biografia": "Biografía de Manuel Puig. Reconocido(a) autor(a) latinoamericano(a).",
+        "pais": "México"
+    },
+    {
+        "nombre": "Claribel Alegría",
+        "biografia": "Biografía de Claribel Alegría. Reconocido(a) autor(a) latinoamericano(a).",
+        "pais": "Brasil"
+    },
+    {
+        "nombre": "Juan Rulfo",
+        "biografia": "Biografía de Juan Rulfo. Reconocido(a) autor(a) latinoamericano(a).",
+        "pais": "Uruguay"
+    },
+    {
+        "nombre": "Alfonsina Storni",
+        "biografia": "Biografía de Alfonsina Storni. Reconocido(a) autor(a) latinoamericano(a).",
+        "pais": "Perú"
+    },
+    {
+        "nombre": "Reinaldo Arenas",
+        "biografia": "Biografía de Reinaldo Arenas. Reconocido(a) autor(a) latinoamericano(a).",
+        "pais": "Guatemala"
+    },
+    {
+        "nombre": "José Martí",
+        "biografia": "Biografía de José Martí. Reconocido(a) autor(a) latinoamericano(a).",
+        "pais": "Nicaragua"
+    },
+    {
+        "nombre": "Gioconda Belli",
+        "biografia": "Biografía de Gioconda Belli. Reconocido(a) autor(a) latinoamericano(a).",
+        "pais": "Guatemala"
+    },
+    {
+        "nombre": "Horacio Quiroga",
+        "biografia": "Biografía de Horacio Quiroga. Reconocido(a) autor(a) latinoamericano(a).",
+        "pais": "Cuba"
+    },
+    {
+        "nombre": "Ernesto Sabato",
+        "biografia": "Biografía de Ernesto Sabato. Reconocido(a) autor(a) latinoamericano(a).",
+        "pais": "Perú"
+    },
+    {
+        "nombre": "Rómulo Gallegos",
+        "biografia": "Biografía de Rómulo Gallegos. Reconocido(a) autor(a) latinoamericano(a).",
+        "pais": "Portugal"
+    },
+    {
+        "nombre": "Domingo Faustino Sarmiento",
+        "biografia": "Biografía de Domingo Faustino Sarmiento. Reconocido(a) autor(a) latinoamericano(a).",
+        "pais": "Uruguay"
+    },
+    {
+        "nombre": "Andrés Bello",
+        "biografia": "Biografía de Andrés Bello. Reconocido(a) autor(a) latinoamericano(a).",
+        "pais": "Cuba"
+    },
+    {
+        "nombre": "Sor Juana Inés de la Cruz",
+        "biografia": "Biografía de Sor Juana Inés de la Cruz. Reconocido(a) autor(a) latinoamericano(a).",
+        "pais": "Nicaragua"
+    },
+    {
+        "nombre": "Rubén Darío",
+        "biografia": "Biografía de Rubén Darío. Reconocido(a) autor(a) latinoamericano(a).",
+        "pais": "Argentina"
+    },
+    {
+        "nombre": "José Donoso",
+        "biografia": "Biografía de José Donoso. Reconocido(a) autor(a) latinoamericano(a).",
+        "pais": "México"
+    },
+    {
+        "nombre": "Vicente Huidobro",
+        "biografia": "Biografía de Vicente Huidobro. Reconocido(a) autor(a) latinoamericano(a).",
+        "pais": "Cuba"
+    },
+    {
+        "nombre": "Nicanor Parra",
+        "biografia": "Biografía de Nicanor Parra. Reconocido(a) autor(a) latinoamericano(a).",
+        "pais": "Nicaragua"
+    },
+    {
+        "nombre": "Joaquim Maria Machado de Assis",
+        "biografia": "Biografía de Joaquim Maria Machado de Assis. Reconocido(a) autor(a) latinoamericano(a).",
+        "pais": "Cuba"
+    },
+    {
+        "nombre": "Carlos Drummond de Andrade",
+        "biografia": "Biografía de Carlos Drummond de Andrade. Reconocido(a) autor(a) latinoamericano(a).",
+        "pais": "Brasil"
+    },
+    {
+        "nombre": "Jorge Amado",
+        "biografia": "Biografía de Jorge Amado. Reconocido(a) autor(a) latinoamericano(a).",
+        "pais": "Argentina"
+    },
+    {
+        "nombre": "Paulo Coelho",
+        "biografia": "Biografía de Paulo Coelho. Reconocido(a) autor(a) latinoamericano(a).",
+        "pais": "Chile"
+    },
+    {
+        "nombre": "Clarice Lispector",
+        "biografia": "Biografía de Clarice Lispector. Reconocido(a) autor(a) latinoamericano(a).",
+        "pais": "Chile"
+    },
+    {
+        "nombre": "Fernando Pessoa",
+        "biografia": "Biografía de Fernando Pessoa. Reconocido(a) autor(a) latinoamericano(a).",
+        "pais": "Guatemala"
+    },
+    {
+        "nombre": "José Saramago",
+        "biografia": "Biografía de José Saramago. Reconocido(a) autor(a) latinoamericano(a).",
+        "pais": "Argentina"
+    },
+    {
+        "nombre": "Luís de Camões",
+        "biografia": "Biografía de Luís de Camões. Reconocido(a) autor(a) latinoamericano(a).",
+        "pais": "Colombia"
+    },
+    {
+        "nombre": "Eça de Queirós",
+        "biografia": "Biografía de Eça de Queirós. Reconocido(a) autor(a) latinoamericano(a).",
+        "pais": "Guatemala"
+    },
+    {
+        "nombre": "Lygia Fagundes Telles",
+        "biografia": "Biografía de Lygia Fagundes Telles. Reconocido(a) autor(a) latinoamericano(a).",
+        "pais": "Perú"
+    },
+    {
+        "nombre": "Manuel Bandeira",
+        "biografia": "Biografía de Manuel Bandeira. Reconocido(a) autor(a) latinoamericano(a).",
+        "pais": "México"
+    },
+    {
+        "nombre": "Juan José Arreola",
+        "biografia": "Biografía de Juan José Arreola. Reconocido(a) autor(a) latinoamericano(a).",
+        "pais": "Uruguay"
+    },
+    {
+        "nombre": "Homero Aridjis",
+        "biografia": "Biografía de Homero Aridjis. Reconocido(a) autor(a) latinoamericano(a).",
+        "pais": "Brasil"
+    },
+    {
+        "nombre": "Álvaro Mutis",
+        "biografia": "Biografía de Álvaro Mutis. Reconocido(a) autor(a) latinoamericano(a).",
+        "pais": "Cuba"
+    },
+    {
+        "nombre": "Fernando del Paso",
+        "biografia": "Biografía de Fernando del Paso. Reconocido(a) autor(a) latinoamericano(a).",
+        "pais": "Argentina"
+    },
+    {
+        "nombre": "José Lezama Lima",
+        "biografia": "Biografía de José Lezama Lima. Reconocido(a) autor(a) latinoamericano(a).",
+        "pais": "Nicaragua"
+    },
+    {
+        "nombre": "Alejo Carpentier",
+        "biografia": "Biografía de Alejo Carpentier. Reconocido(a) autor(a) latinoamericano(a).",
+        "pais": "Colombia"
+    },
+    {
+        "nombre": "Miguel Ángel Asturias",
+        "biografia": "Biografía de Miguel Ángel Asturias. Reconocido(a) autor(a) latinoamericano(a).",
+        "pais": "Portugal"
+    },
+    {
+        "nombre": "Ramón López Velarde",
+        "biografia": "Biografía de Ramón López Velarde. Reconocido(a) autor(a) latinoamericano(a).",
+        "pais": "Brasil"
+    },
+    {
+        "nombre": "Leopoldo Lugones",
+        "biografia": "Biografía de Leopoldo Lugones. Reconocido(a) autor(a) latinoamericano(a).",
+        "pais": "México"
+    }
+]
