@@ -1,0 +1,10 @@
+Buen dia Ingeniero para ingresar
+Usuario: Amin
+Password: Admin1
+
+Puede escribirlo como quiera ya que internamente lo transforma todo en mayúsculas
+
+Para ejecución 
+	
+	-Abrir consola en el directorio o navegar hasta el directorio donde esta el .jar 
+	- ejecutar en consola el siguiente comando : java -jar proybibliotecaf.jar
